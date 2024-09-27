@@ -1,0 +1,11 @@
+[package]
+name = "blockwins"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.1"
+blake2 = "0.10"
+hex = "0.4"
+anyhow = "1.0"
+tari_utilities = "0.7"
